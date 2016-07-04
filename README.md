@@ -5,6 +5,7 @@ AlsaTone is a sine wave sound generator.
 ### How to compile it ?
 
 Just write in a console :  
+`sudo apt-get install libasound2-dev`  
 `git clone https://github.com/paly2/AlsaTone.git`  
 `make`
 
